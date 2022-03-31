@@ -1,15 +1,6 @@
-# Basic Sample Hardhat Project
+Successfully submitted source code for contract
+contracts/RandomeWinnerGame.sol:RandomWinnerGame at 0xEAf07221C245eA303fF4fb6b962C751B379D06Fa
+for verification on the block explorer. Waiting for verification result...
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+Successfully verified contract RandomWinnerGame on Etherscan.
+https://mumbai.polygonscan.com/address/0xEAf07221C245eA303fF4fb6b962C751B379D06Fa#code
